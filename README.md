@@ -14,5 +14,5 @@ They are mostly refer from: https://www.kaggle.com/dhimananubhav/feature-enginee
 Put the three models together and take the average of their results.
 
 # Jupyter Notebook
-* Data Preprocessing, Feature Engineering & Models: 
+* Data Preprocessing, Feature Engineering & Models: https://nbviewer.jupyter.org/github/wwwmelodycomtw/Predict-Future-Sales/blob/master/DSAI_Preprocessing_and_Model.ipynb
 * Ensemble: https://nbviewer.jupyter.org/github/wwwmelodycomtw/Predict-Future-Sales/blob/master/DSAI_Ensemble.ipynb
