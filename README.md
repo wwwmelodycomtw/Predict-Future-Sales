@@ -12,3 +12,7 @@ They are mostly refer from: https://www.kaggle.com/dhimananubhav/feature-enginee
 ### Ensemble
 
 Put the three models together and take the average of their results.
+
+### Jupyter Notebook
+* Data Preprocessing, Feature Engineering & Models: 
+* E
